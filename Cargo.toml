@@ -1,0 +1,8 @@
+[package]
+name = "call-cuda"
+version = "0.1.0"
+authors = ["Harry Stern <hcs@meow.sh>"]
+build = "build.rs"
+
+[dependencies]
+libc = "0.2.7"
